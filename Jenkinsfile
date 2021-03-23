@@ -1,0 +1,2 @@
+Pipeline{
+    agent any
